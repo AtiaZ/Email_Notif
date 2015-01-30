@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Notif_Email.iml" filepath="$PROJECT_DIR$/Notif_Email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activator/activator.iml" filepath="$PROJECT_DIR$/activator/activator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extension/extension.iml" filepath="$PROJECT_DIR$/extension/extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portlets/portlets.iml" filepath="$PROJECT_DIR$/portlets/portlets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/services.iml" filepath="$PROJECT_DIR$/services/services.iml" />
+    </modules>
+  </component>
+</project>
